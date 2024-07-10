@@ -1,0 +1,9 @@
+{
+  "reset_password": "Reset Password",
+  "email": "Email",
+  "phone": "Phone",
+  "request_otp": "Request OTP",
+  "otp": "OTP",
+  "new_password": "New Password",
+  "submit": "Submit"
+}

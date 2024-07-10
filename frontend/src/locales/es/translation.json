@@ -1,0 +1,9 @@
+{
+  "reset_password": "Restablecer la contraseña",
+  "email": "Correo electrónico",
+  "phone": "Teléfono",
+  "request_otp": "Solicitar OTP",
+  "otp": "OTP",
+  "new_password": "Nueva contraseña",
+  "submit": "Enviar"
+}
